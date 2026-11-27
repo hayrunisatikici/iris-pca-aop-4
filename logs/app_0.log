@@ -1,0 +1,22 @@
+2026-11-27 11:32:10 | INFO    | load başladı
+2026-11-27 11:32:10 | SEVERE  | load HATA: java.io.UncheckedIOException: Dosya okunamadı: iris.csv
+2026-11-27 11:32:10 | INFO    | load bitti | süre: 24.826 ms | bellek: 404 KB | durum: HATALI
+2026-11-27 11:42:55 | INFO    | load başladı
+2026-11-27 11:42:55 | INFO    | load bitti | süre: 45.878 ms | bellek: 531 KB | durum: BAŞARILI
+2026-11-27 11:42:55 | INFO    | describe başladı
+2026-11-27 11:42:55 | INFO    | describe bitti | süre: 10.780 ms | bellek: 194 KB | durum: BAŞARILI
+2026-11-27 11:42:55 | INFO    | standardize başladı
+2026-11-27 11:42:55 | INFO    | standardize bitti | süre: 1.242 ms | bellek: 16 KB | durum: BAŞARILI
+2026-11-27 11:42:55 | INFO    | pca başladı
+2026-11-27 11:42:55 | INFO    | pca bitti | süre: 12.376 ms | bellek: 220 KB | durum: BAŞARILI
+2026-11-27 11:42:55 | INFO    | plot başladı
+2026-11-27 11:42:56 | INFO    | plot bitti | süre: 204.226 ms | bellek: 3381 KB | durum: BAŞARILI
+2026-11-27 11:42:56 | INFO    | pca başladı
+2026-11-27 11:42:56 | SEVERE  | pca HATA: java.lang.IllegalArgumentException: Satır 1 eksik (NaN) veya sonsuz değer içeriyor
+2026-11-27 11:42:56 | INFO    | pca bitti | süre: 1.927 ms | bellek: 22 KB | durum: HATALI
+2026-11-27 11:42:56 | INFO    | pca başladı
+2026-11-27 11:42:56 | SEVERE  | pca HATA: java.lang.IllegalArgumentException: Bileşen sayısı 1 ile 4 arasında olmalı, gelen: 10
+2026-11-27 11:42:56 | INFO    | pca bitti | süre: 2.835 ms | bellek: 22 KB | durum: HATALI
+2026-11-27 11:42:56 | INFO    | load başladı
+2026-11-27 11:42:56 | SEVERE  | load HATA: java.io.UncheckedIOException: Dosya okunamadı: yok.csv
+2026-11-27 11:42:56 | INFO    | load bitti | süre: 1.921 ms | bellek: 19 KB | durum: HATALI
