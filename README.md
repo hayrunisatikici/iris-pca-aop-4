@@ -9,7 +9,7 @@ Bu proje, **Makine Öğrenmesi** ve **Yazılım Mimarisi / Nesne Yönelimli Prog
 Bu proje 2 kişilik bir çalışma grubu olarak geliştirilmiştir:
 
 1. **Hayrunisa Tikici** — `1250505061` (Kırklareli Üniversitesi - Yazılım Mühendisliği)
-2. **[Ekip Arkadaşının Adı Soyadı]** — `[Öğrenci Numarası]` (Kırklareli Üniversitesi - Yazılım Mühendisliği)
+2. **Saliha Binici** — `1250505058` (Kırklareli Üniversitesi - Yazılım Mühendisliği)
 
 ---
 
